@@ -1,8 +1,9 @@
 # credit2latex
 Python script for converting CRediT tables to LaTeX
 
-Creates LaTeX which looks like this:\
-![Example of the Appendix created](example/example_latex.png "Title")
+Creates LaTeX which looks like this:
+
+<img src="example/example_latex.png" alt="Example of the Appendix created" width="400"/>
 
 from a CRediT spreadsheet. Note the pre and post-amble may not be the appropriate wording for you and your collaboration!
 ## Steps
